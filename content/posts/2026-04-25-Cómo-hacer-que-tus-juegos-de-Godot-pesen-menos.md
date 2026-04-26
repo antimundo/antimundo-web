@@ -142,7 +142,7 @@ El argumento `platform=linuxbsd` es mi plataforma objetivo, en este caso estoy h
 
 Cuando termina de compilar, si entro en la carpeta del repo de Godot `/bin/` voy a encontrar el siguiente archivo `/bin/godot.linuxbsd.template_release.x86_64`, este archivo es mi _export template_. Ese archivo lo puedo mover a donde quiera.
 
-Luego en el editor de Godot voy al menú superior y me dirigo a `Project > Export` y añado un nuevo preset para Linux. Después activo las `Advanced Options` y me saldrá una casilla para añadir una `Custom Template`. En esa casilla voy a meter la ruta en mi computadora del archivo _export template_ personalizado que acabo de crear.
+Luego en el editor de Godot voy al menú superior y me dirijo a `Project > Export` y añado un nuevo preset para Linux. Después activo las `Advanced Options` y me saldrá una casilla para añadir una `Custom Template`. En esa casilla voy a meter la ruta en mi computadora del archivo _export template_ personalizado que acabo de crear.
 
 ![Captura del apartado export de Godot](https://docs.godotengine.org/en/stable/_images/lintemplates.webp)
 
